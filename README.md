@@ -2,7 +2,7 @@ scratch_batch_import
 
 通过 Python 一键为 Scratch 项目批量导入角色造型，适合需要一次性导入大量图片的用户。
  
-📁 项目结构
+📁 主要项目结构
 
 scratch_batch_import/
 ├── images/                                   # 图片存放文件夹
@@ -10,8 +10,7 @@ scratch_batch_import/
 ├── （在这里放作品文件）
 ├── import_costumes.py                        # 核心运行脚本
 ├── main.bat                                  # Windows 一键运行程序
-└── please "pip install pillow" first.txt     # 依赖安装说明文件
- 
+
 📌 使用教程
  
 1. 安装依赖
@@ -54,7 +53,7 @@ scratch_batch_import
  
 One-click bulk import of costumes for Scratch projects via Python. Perfect for users who need to import a large number of images at once.
  
-📁 Project Structure
+📁 Main Project Structure
  
 plaintext
   
@@ -63,9 +62,7 @@ scratch_batch_import/
 │   └── (Put images here)                     # Text reminder only
 ├── (Put project files here)                  # Text reminder only
 ├── import_costumes.py                        # Main script
-├── main.bat                                  # One-click launcher for Windows
-└── please "pip install pillow" first.txt     # Dependency installation guide
- 
+├── main.bat                                  # One-click launcher for Windows 
  
 📌 Usage Guide
  
