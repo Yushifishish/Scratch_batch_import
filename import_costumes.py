@@ -14,7 +14,6 @@ print("Github: https://github.com/Yushifishish")
 print("X: https://x.com/FishishOuO")
 print("QQ: 3899512800")
 print("Email: yushifishish@outlook.com")
-print
 print("=" * 50)
 LANG_TEXTS = {
     "zh": {
